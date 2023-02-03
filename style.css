@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    background-color: black;
+}
+
+#jumbo {
+    background-image: url(images/japanstreet.jpg);
+    background-size: 100%;
+    text-shadow: 2px 2px black;
+    margin-top: 1px;
+}
+
+#jumbo1 {
+    color: whitesmoke;
+}
