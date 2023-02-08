@@ -1,5 +1,6 @@
 <?php
 include_once 'header.php';
+
 ?>
 
     <div id="all" class="container text-center mt-5">
@@ -16,28 +17,28 @@ include_once 'header.php';
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Mineral water</div>
-                Normal water, cold water, sparkling water             
+                <p>Normal water, cold water, sparkling water</p>            
               </div>
               <span class="badge bg-primary rounded-pill">6€</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Fruit Juice</div>
-                Orange, cranberry, prune, apple, blueberry
+                <p>Orange, cranberry, prune, apple, blueberry</p>
               </div>
               <span class="badge bg-primary rounded-pill">3.5€</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Tea</div>
-                Black teat, green tea, oolong tea, white tea
+                <p>Black teat, green tea, oolong tea, white tea</p>
               </div>
               <span class="badge bg-primary rounded-pill">2.5€</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Ramune</div>
-                Original, mango, melon, peach, plume, grape
+                <p>Original, mango, melon, peach, plume, grape</p>
               </div>
               <span class="badge bg-primary rounded-pill">4€</span>
             </li>
@@ -51,28 +52,28 @@ include_once 'header.php';
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Onigiri</div>
-                Triangular-shaped rice balls filled with meat, fish, or vegetables
+                <p>Triangular-shaped rice balls filled with meat, fish, or vegetables</p>
               </div>
               <span class="badge bg-primary rounded-pill">3€/u</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Gyoza</div>
-              Small dumplings filled with meat or vegetables, steamed or fried.
+                <p>Small dumplings filled with meat or vegetables, steamed or fried.</p>
               </div>
               <span class="badge bg-primary rounded-pill">6€/6pcs</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Okonomiyaki<h6><span class="badge bg-secondary">New</span></h6></div>
-                A type of pancake that can be filled with various ingredients such as pork, octopus, vegetables, cheese, etc., and served with soy sauce and mayonnaise.
+                <p>A type of pancake that can be filled with various ingredients such as pork, octopus, vegetables, cheese, etc., and served with soy sauce and mayonnaise.</p>
               </div>
               <span class="badge bg-primary rounded-pill">6€</span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Takoyaki</div>
-                Ball-shaped snacks made of wheat flour dough filled with pieces of octopus, onion, green onion, and dried bonito flakes, often served with soy sauce and mayonnaise.
+                <p>Ball-shaped snacks made of wheat flour dough filled with pieces of octopus, onion, green onion, and dried bonito flakes, often served with soy sauce and mayonnaise.</p>
               </div>
               <span class="badge bg-primary rounded-pill">6€/3pcs</span>
             </li>
@@ -164,7 +165,7 @@ include_once 'header.php';
             </li>
           </ol>
         </div>
-    </div>  
+    </div> 
 
 
       

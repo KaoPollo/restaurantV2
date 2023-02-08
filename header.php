@@ -8,10 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Octo-Sensei | Japanese Street Food</title>
 </head>
-
-
 <body>
-
     <!--NavBar-->
   <nav class="navbar navbar-expand-sm navbar-dark">
     <div class="container-fluid">
@@ -19,7 +16,6 @@
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
-
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -35,7 +31,16 @@
             <a class="nav-link" href="restaurant.php">About Us</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="guestbook.php">Guestbook</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="signup.php">Sign up</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="login.php">Log in</a>
           </li>
         </ul>
       </div>
