@@ -11,20 +11,8 @@ include_once 'header.php';
                           <div class="container my-3">
                             <div class="d-flex flex-wrap justify-content-center">
                               <h3 class="text-center col-12"><strong>CONTACT</strong></h3>
-                              <div class="icons">
-                                  <a href="#">
-                                      <i class="fab fa-facebook"></i>
-                                  </a>
-                                  <a href="#">
-                                      <i class="fab fa-twitter"></i>  
-                              </div>
                             </div>
                           </div>
-
-
-
-
-
 
                           <div class="container mt-2">
                             <div>
